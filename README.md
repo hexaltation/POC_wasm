@@ -13,5 +13,5 @@ emcc write.c -s WASM=1 -o write.html
 
 It's generate write.html, write.js, write.wasm.
 
-Input and button have been added to write.html.
+Input and button have been added to write.html.  
 write.js have been modified to relaunch c program each time the button is clicked.
