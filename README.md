@@ -1,7 +1,7 @@
 # POC_wasm
 ## First POC with wasm &amp; emscripten
 
-The c program write.c is compiled with emscripten
+The c program write.c is compiled with emscripten.  
 You can clone or fork the project here:
 https://github.com/kripken/emscripten
 
